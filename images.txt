@@ -3,4 +3,5 @@ python:3.9-slim
 #mysql数据库
 mysql:8.0
 #dify
-dify:1.10
+dify-api:1.10.0
+dify-web:1.10.0
