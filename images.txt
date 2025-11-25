@@ -5,3 +5,7 @@ mysql:8.0
 #dify
 langgenius/dify-api:1.10.0
 langgenius/dify-web:1.10.0
+#redis
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+nginx:latest
