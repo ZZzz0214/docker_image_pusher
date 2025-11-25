@@ -9,3 +9,4 @@ langgenius/dify-web:1.10.0
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
 nginx:latest
+langgenius/dify-plugin-daemon:0.2.0-local
