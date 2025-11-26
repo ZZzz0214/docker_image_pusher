@@ -4,7 +4,6 @@ mysql:8.0
 #dify
 langgenius/dify-api:1.10.0
 langgenius/dify-web:1.10.0
-langgenius/dify-worker:1.10.0
 langgenius/dify-plugin-daemon:latest
 semitechnologies/weaviate:1.27.0
 #redis
